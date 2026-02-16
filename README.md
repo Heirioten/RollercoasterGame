@@ -12,5 +12,5 @@ etc.
 A paragraph explaining your work, who you are, and why you made it.
 
 ## ✍️ Authors
-[Nicholas Lyons](https://github.com/Heirioten)
+[Nicholas Lyons](https://github.com/Heirioten)\n
 [Amanda Keith](https://github.com/AmandaKeith13)
